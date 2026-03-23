@@ -4,7 +4,7 @@
 
 ###### This project designs a database system for a food delivery business.
 
-###### It includes:
+##### It includes:
 
 ###### Creating an Enhanced ER Diagram (EERD)
 ###### Identifying entities, attributes, and relationships
